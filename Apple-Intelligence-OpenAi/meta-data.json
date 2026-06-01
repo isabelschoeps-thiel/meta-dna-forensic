@@ -1,0 +1,393 @@
+HTTP/1.1 200 OK
+Content-length: 40193
+Content-location: https://developers.google.com/oauthplayground/?access_token=#step3&apisSelect=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadwords%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.datatransfer%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.datatransfer.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.directory.domain.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.directory.user.alias%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.directory.userschema%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.directory.userschema.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadmin.reports.audit.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery.insertdata%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.read_only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fblogger.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbooks%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontent%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fapps.reports.usage.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataplex.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataproc.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-identity.devices%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-identity.devices.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-identity.policies.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-language%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmonitoring%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search.indexing%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search.query%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search.stats%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search.stats.indexing%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.read_only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.read_only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.google.com%2Fm8%2Ffeeds%2F%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdatalineage.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.chrome.bookmarks%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.chrome.dictionary%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.chrome.history%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.maps.photos_videos%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.maps.vehicle_profile%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.myactivity.search%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.myactivity.youtube%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.play.library%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdataportability.search_ugc.media.streaming_video_providers%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fbigquery%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdialogflow%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud_search.query%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdisplay-video%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.appdata%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.apps.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.metadata%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.photos.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.scripts%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.activity%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.admin.labels.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.labels.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fapps.licensing%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffactchecktools%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase.messaging%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffitness.activity.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffitness.body.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffitness.nutrition.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffitness.reproductive_health.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffitness.sleep.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fces%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fpostmaster.domain%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadwords%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fanalytics.edit%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fanalytics.manage.users.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fanalytics.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fanalytics.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fanalytics.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fchat.users.spacesettings%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclassroom.guardianlinks.me.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclassroom.guardianlinks.students%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclassroom.profile.emails%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclassroom.topics%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fredis.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fforms.responses.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgooglehealth.ecg.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgooglehealth.profile.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgooglehealth.sleep.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fkeep.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmeetings.space.readonly%2Copenid%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fandroidpublisher%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fspreadsheets.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fediscovery.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fapps.alerts%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontainer.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fadwords%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontent%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Copenid%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdirectory.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.organization.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%2Chttps%3A%2F%2Fpicasaweb.google.com%2Fdata%2F%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmaps-platform.places%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmaps-platform.places.details%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmaps-platform.places.nearbysearch%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fmaps-platform.places.textsearch%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsasportal%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdoubleclicksearch%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdoubleclicksearch%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fservice.management.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform.read-only%2Chttps%3A%2F%2Fsites.google.com%2Ffeeds%2F%2Chttps%3A%2F%2Fspreadsheets.google.com%2Ffeeds%2F%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fstreetviewpublish%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsubscribewithgoogle.publications.entitlements.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Findexing%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2Ffeeds%2F%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutubepartner%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyt-analytics.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.channel-memberships.creator%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.upload%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutubepartner-channel-audit%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyt-analytics-monetary.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyt-analytics.readonly%2Chttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&scopes=Meta-Data%20Forensic%20BigQuery%20https%3A%2F%2Fgithub.com%2Fisabelschoeps-thiel%2Fmetadata-forensic&url=https%3A%2F%2F&content_type=application%2Fjson&http_method=GET&useDefaultOauthCred=unchecked&oauthEndpointSelect=Google&oauthAuthEndpointValue=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth&oauthTokenEndpointValue=https%3A%2F%2Foauth2.googleapis.com%2Ftoken&includeCredentials=unchecked&accessTokenType=oauth&autoRefreshToken=checked&accessType=online&prompt=select_account&response_type=token&wrapLines=on
+Transfer-encoding: chunked
+Expires: Mon, 01 Jun 2026 12:55:47 GMT
+Server: Google Frontend
+Cache-control: public, max-age=600
+-content-encoding: gzip
+X-cloud-trace-context: 747be1d1a214846caaa8e7863472dec4
+Date: Mon, 01 Jun 2026 12:45:47 GMT
+Etag: "kItzqw"
+Alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Content-type: text/html
+X-frame-options: DENY
+<!DOCTYPE html> <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+        <meta name="description" content="The OAuth 2.0 Playground lets you play with OAuth 2.0 and the APIs that supports it." />
+        <meta name="keywords" content="OAuth, REST, Google, POST, GET, PUT, token, client id, client secret" />
+        <link rel="icon" type="image/png" href="assets/images/favicon.png" />
+        <title>OAuth 2.0 Playground</title>
+        <link rel="stylesheet" href="assets/css/kd_components.css" type="text/css" media="screen" charset="utf-8">
+        <link rel="stylesheet" href="assets/css/maia_header.css" type="text/css" media="screen" charset="utf-8">
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/prettyprint.js"></script>
+        <script type="text/javascript" src="assets/js/ui_logic.js"></script>
+        <script type="text/javascript" src="assets/js/forge.min.js"></script>
+        <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+        <style id="antiClickjack">body{display:none !important;}</style>
+        <script type="text/javascript">
+          if (self === top) {
+            var antiClickjack = document.getElementById('antiClickjack');
+            antiClickjack.parentNode.removeChild(antiClickjack);
+          } else {
+            top.location = self.location;
+          }
+        </script>
+    </head>
+    <body>
+        <!-- Warning that is displayed when the user uses the Drive.file scope but is not using our Google Drive app -->
+        <div id="driveAppWarning" class="op-butterbar"><p>For better experience using the Drive API, make sure you have installed the <a target="_blank" href="https://chrome.google.com/webstore/detail/fcjholccjchiplkbibepfimlaapdaiih">OAuth 2.0 Playground Drive app</a> on the Chrome Webstore. <a href="#" onClick="$('#driveAppWarning').removeClass('shown'); return false;">Dismiss</a></p></div>
+        <!-- Warning that is displayed when a custom OAuth configuration is being used so that the user can check the configuration -->
+        <div id="customConfigWarning" class="op-uberwarning">
+            <div class="op-warn-box">
+                <div class="op-warnsign">&#9888;</div>
+                <p>You are using a custom OAuth configuration. Please note that your credentials will be sent to these URLs:</p>
+                <ul class="op-warning-endpointlist">
+                    <li id="op-warning-authendpoint"></li>
+                    <li id="op-warning-tokenendpoint"></li>
+                </ul>
+                <div class="op-warnbuttons">
+                    <button class="op-button op-button-share" href="#" onClick="google.devrel.oauth2playground.okCustomEndpointWarning();">OK! That's fine.</button>
+                    <button class="op-button op-button-red"href="#" onClick="google.devrel.oauth2playground.resetAll(); $('#customConfigWarning').removeClass('shown'); return false;">I don't want this. Reset all settings.</button>
+                </div>
+                <div class="op-warn-remember-container">
+                    <input type="checkbox" id="op-warn-remember" name="op-warn-remember"><span id="op-warn-remember-label" style="cursor:pointer;" onClick="$('#op-warn-remember').prop('checked', !$('#op-warn-remember').prop('checked'));">Don't ask again for these endpoints on this browser</span>
+                </div>
+            </div>
+        </div>
+        <div id="op-googlebar" class="alternate">
+            <div id="maia-header" class="maia-header">
+                <header id="googlebar">
+                    <div id="logo-wrapper">
+                        <a id="logo" href="/">
+                            <img src="assets/images/developers-logo.svg" alt="Google"/>
+                        </a>
+                    </div>
+                </header>
+            </div>
+        </div>
+        <div class="op-appbar">
+            <h2 class="op-appname"><img id="logoImage" class="hidden" src="assets/images/oauth-2-sm.png"><span id="logoText">OAuth 2.0</span> <span style="vertical-align:top;">Playground</span></h2>
+            <div class="op-buttonbar left">
+                <a class="op-button" id="resetAllSettings" style="float:left; position:relative; display:inline-block;"><img src="assets/images/close.png" width="21" height="21" alt="Reload" class="quimby_search_image">
+                    <div class="op-tooltip">
+                        Reset all settings<span class="pointer"></span>
+                    </div>
+                </a>
+            </div>
+            <div class="op-buttonbar right">
+                <div style="float:left; position:relative;">
+                    <a class="op-button" id="helpButton" style="z-index: 1001; display:inline-block;"><img src="assets/images/help.png" width="21" height="21" alt="Help" class="quimby_search_image">
+                        <div class="op-tooltip" style="top:33px;">
+                            Help - Feedback - Bugs<span class="pointer" style="left: 60px;"></span>
+                        </div>
+                    </a>
+                    <div id="helpBubble" class="op-bubble hidden" style="width: 215px; position: absolute; left: -88px;top: 38px;">
+                        <p class="links" style="margin-top:0;"><a onclick="
+                        try{
+                          userfeedback.api.startFeedback({
+                              'productId': '74880'
+                          });
+                          return false;
+                        }catch(e){}" href="#">Report a bug - Provide feedback</a></p>
+                        <p class="links" ><a href="http://stackoverflow.com/questions/ask?tags=oauth2-playground" target="_blank">Contact the team - Ask for help</a></p>
+                        <p class="links">
+                            <a id="closeHelpBubble">Close</a>
+                        </p>
+                        <span class="pointer" style="left:;right: 114px;"></span>
+                    </div>
+                </div>
+                <div style="float:left; position:relative;margin-left:16px;">
+                    <a class="op-button" id="deeplinkButton" style="z-index: 1001; display:inline-block;"><img src="assets/images/link.png" width="21" height="21" alt="Options" class="quimby_search_image">
+                        <div class="op-tooltip" style="top:33px;">
+                            Create Link<span class="pointer" style="left: 60px;"></span>
+                        </div>
+                    </a>
+                    <div id="deeplinkBubble" class="op-bubble hidden" style="width: 415px; position: absolute; left: -288px;top: 38px;">
+                        <p>
+                            Here is a URL to initialize the playground with the current configuration:
+                        </p>
+                        <input type="text" name="deeplink" id="deeplink" style="width: 415px; margin-top: 10px;">
+                        <div style="vertical-align: top; margin: 10px 0;">
+                            <input type="checkbox" id="includeCredentials" name="includeCredentials" style="margin-right:5px;"><span id="includeCredentialsLabel" style="cursor:pointer;">Include OAuth credentials and OAuth tokens in the link</span>
+                        </div>
+                        <p style="padding-top: 10px;" class="note">Note: If the option above is enabled this link may contain your OAuth credentials and OAuth tokens. In that case avoid sharing this link.</p>
+                        <p class="links">
+                            <a id="dismissDeeplinkBubble">Close</a>
+                        </p>
+                        <span class="pointer" style="right: 114px;"></span>
+                    </div>
+                </div>
+                <div style="float:left; position:relative; margin-left: 16px;">
+                    <a class="op-button" id="oauthConfigButton" style="z-index: 1001; display:inline-block;"><img src="assets/images/settings.png" width="21" height="21" alt="Options" class="quimby_search_image">
+                        <div class="op-tooltip" style="top:33px;">
+                            OAuth 2.0 Configuration<span class="pointer" style="left: 80px;"></span>
+                        </div>
+                    </a>
+                    <div id="oauthConfigBubble" class="op-bubble hidden">
+                        <div id="oauthConfigBubbleContainer">
+                            <h3>OAuth 2.0 configuration</h3>
+                            <div style="margin-top: 10px; overflow:visible;"><div style="vertical-align: top; margin-top: 10px">
+                                <span for="response_type" style="line-height: 29px; float:left; width:110px;">OAuth flow:</span>
+                                <span id="response_type" style="margin-left: 5px; overflow: visible; display:inline-block; *display: inline;" class="op-button op-menubutton op-select">
+                                    <span class="label">Server-side</span>
+                                    <span class="op-disclosureindicator"></span>
+                                    <ul class="op-menulist">
+                                        <li class="op-menulistitem selected" val="code">
+                                            Server-side
+                                        </li>
+                                        <li class="op-menulistitem" val="token">
+                                            Client-side
+                                        </li>
+                                    </ul>
+                                </span>
+                            </div>
+                            <div style="margin-top: 10px; vertical-align: top; height: 29px; overflow:visible;">
+                                <span for="oauthEndpointSelect" style="width:110px;line-height: 29px; float:left;">OAuth endpoints:</span>
+                                <span id="oauthEndpointSelect" style="margin-left: 5px; overflow: visible; display:inline-block; *display: inline;" class="op-button op-menubutton op-select">
+                                    <span class="label">Google</span>
+                                    <span class="op-disclosureindicator"></span>
+                                    <ul class="op-menulist">
+                                        <li class="op-menulistitem selected">
+                                            Google
+                                        </li>
+                                        <li class="op-menulistitem">
+                                            Custom
+                                        </li>
+                                    </ul>
+                                </span>
+                            </div>
+                            <div style="margin-top: 5px; vertical-align: top;">
+                                <span for="oauthAuthEndpointValue" style="line-height: 27px; ">
+                                     Authorization endpoint:
+                                </span>
+                                <input value="https://accounts.google.com/o/oauth2/v2/auth" disabled="true" type="text" name="oauthAuthEndpointValue" id="oauthAuthEndpointValue" style="width: 265px" placeholder="OAuth authorization endpoint">
+                            </div>
+                            <div id="oauthTokenEndpointContainer" style="margin-top: 5px; vertical-align: top;">
+                                <span for="oauthTokenEndpointValue" style="line-height: 27px; ">
+                                     Token endpoint:
+                                </span>
+                                <input value="https://oauth2.googleapis.com/token" disabled="true" type="text" name="oauthTokenEndpointValue" id="oauthTokenEndpointValue" style="width: 305px;" placeholder="OAuth token endpoint">
+                            </div>
+                            <p id="customOAuthExplanation" class="note">Note: The OAuth endpoints above need to implement the <a href="https://tools.ietf.org/html/draft-ietf-oauth-v2-10" target="_blank">OAuth 2.0 draft 10</a> specification or above. Other specification are likely to be incompatible.</p>
+                        </div>
+                            <div style="vertical-align: top; margin-top: 10px">
+                                <span for="accessTokenType" style="line-height: 29px; float:left;">Access token location:</span>
+                                <span id="accessTokenType" style="width: 245px; margin-left: 5px; overflow: visible; display:inline-block; *display: inline;" class="op-button op-menubutton op-select">
+                                    <span class="label">Authorization header w/ Bearer prefix</span>
+                                    <span class="op-disclosureindicator"></span>
+                                    <ul class="op-menulist">
+                                        <li class="op-menulistitem" val="oauth">
+                                            Authorization header w/ OAuth prefix
+                                        </li>
+                                        <li class="op-menulistitem selected" val="bearer">
+                                            Authorization header w/ Bearer prefix
+                                        </li>
+                                        <li class="op-menulistitem" val="query">
+                                            access_token URL parameter
+                                        </li>
+                                    </ul>
+                                </span>
+                            </div>
+                            <div id="googleSpecificOptions">
+                                <div id="accessTypeContainer" style="vertical-align: top; margin-top: 10px">
+                                    <span for="accessType" style="line-height: 29px; float:left;">Access type:</span>
+                                    <span id="accessType" style="width: 100px; margin-left: 5px; overflow: visible; display:inline-block; *display: inline;" class="op-button op-menubutton op-select">
+                                        <span class="label">Offline</span>
+                                        <span class="op-disclosureindicator"></span>
+                                        <ul class="op-menulist">
+                                            <li class="op-menulistitem selected" val="offline">
+                                                Offline
+                                            </li>
+                                            <li class="op-menulistitem" val="online">
+                                                Online
+                                            </li>
+                                        </ul>
+                                    </span>
+                                </div>
+                                <div style="margin-top:10px; vertical-align: top; margin-bottom:5px">
+                                    <span for="prompt" style="line-height: 29px; float:left;">Force prompt:</span>
+                                    <span id="prompt" style="width: 245px; margin-left: 5px; overflow: visible; display:inline-block; *display: inline;" class="op-button op-menubutton op-select">
+                                        <span class="label">Consent Screen</span>
+                                        <span class="op-disclosureindicator"></span>
+                                        <ul class="op-menulist">
+                                            <li class="op-menulistitem" val="none">
+                                                No
+                                            </li>
+                                            <li class="op-menulistitem selected" val="consent">
+                                                Consent Screen
+                                            </li>
+                                            <li class="op-menulistitem" val="select_account">
+                                                Select Account Screen
+                                            </li>
+                                        </ul>
+                                    </span>
+                                </div>
+                            </div>
+                            <div id="defaultOauthCredCheckbox" style="vertical-align: top; margin-bottom:5px">
+                                <input type="checkbox" id="useDefaultOauthCred" name="useDefaultOauthCred" style="margin-right:5px;"><span id="useDefaultOauthCredLabel" style="cursor:pointer;">Use your own OAuth credentials</span>
+                            </div>
+                            <div id="oauthCredSection">
+                            <p id="googleWhitelistHelper" class="note" style="margin-bottom: 10px; font-style:normal;">
+                                You will need to list the URL <i>https://developers.google.com/oauthplayground</i> as a valid redirect URI in your <a href="https://code.google.com/apis/console" target="_blank">Google APIs Console</a>'s project. Then enter the client ID and secret assigned to a web application on your project below:
+                            </p>
+                            <p id="defaultWhitelistHelper" class="note" style="margin-bottom: 10px; font-style:normal; display:none;">
+                                You will need to list the URL <i>https://developers.google.com/oauthplayground</i> as a valid redirect URI in the developer console of your API. Then enter your client ID and secret below:
+                            </p>
+                            <label for="url" style="line-height: 27px;">
+                                OAuth Client ID:
+                            </label>
+                            <input type="text" name="oauthClientId" id="oauthClientId" style="width: 303px;" placeholder="Client ID">
+                            <div id="oauthClientSecretContainer">
+                                <label for="url" style="line-height: 47px;">
+                                    OAuth Client secret:
+                                </label>
+                                <input type="text" name="oauthClientSecret" id="oauthClientSecret" style="width: 280px; margin-top: 10px;" placeholder="Client secret">
+                            </div>
+                            <p class="note">Note: Your credentials will be sent to our server as we need to proxy the request. Your credentials will not be logged.</p>
+                        </div>
+                            <p class="links" style="margin-top: 20px">
+                                <a id="closeOauthConfigBubble">Close</a>
+                            </p>
+                        </div>
+                        <span class="pointer" style="right: 26px;"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="parentContainer">
+            <div id="leftContainer">
+                <div class="op-zippy expanded">
+                    <h3 id="step1"><span class="op-disclosureindicator"></span><span>Step 1</span><span style="color:#777; margin-left: 10px;">Select &amp; authorize APIs</span></h3>
+                    <div class="op-zippycontent" style="overflow-y: visible; overflow-x: visible;">
+                        <div class="inner">
+                            <p id="step1_explanation" class="explanation"><b>Select the scope</b> for the APIs you would like to access or input your own OAuth scopes below. Then <b>click the "Authorize APIs" button</b>.</p>
+                            
+                            <ul id="apisSelect" class="op-menulist">
+                                <div class="scrollBarBox" style="border: 0; overflow:hidden;">
+                                <div id="scopesContainer" class="scrollBarInner" style="padding-bottom:0; padding-left:0">
+                                    <div class="shadow" style="opacity: 0; ">
+                                    </div>
+                                </div>
+                            </ul>
+                        
+                            <div>
+                                <input type="text" name="scopes" id="scopes" placeholder="Input your own scopes" style="width: 344px">
+                                <div style="position: relative; display: inline-block;*display: inline;">
+                                    <button id="authorizeApisButton" class="op-button op-button-submit disabled" style="margin-left: 10px; position: relative; display:inline-block;">Authorize APIs</button>
+                                    <div class="op-tooltip" style="top:33px;">
+                                        Authorize the selected APIs and scopes<span class="pointer"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--end inner-->
+                    </div>
+                    <!--end zippycontent -->
+                </div>
+                <!--end zippy -->
+                <div class="op-zippy">
+                    <h3 id="step2"><span class="op-disclosureindicator"></span><span id="step2TitlePrefix">Step 2</span><span id="step2Title" style="color:#777; margin-left: 10px;">Exchange authorization code for tokens</span></h3>
+                    <div class="op-zippycontent" style="height: 0px;">
+                        <div class="inner">
+                            <p class="explanation" id="clientSideFlowExplanation">The access token below is provided after going through Step 1. It is a short lived token which gives you access to the user's OAuth protected resources.</p>
+                            <div id="serverSideFlowSection">
+                                <p class="explanation">Once you got the Authorization Code from Step 1 click the <b>Exchange authorization code for tokens</b> button, you will get a refresh and an access token which is required to access OAuth protected resources.</p>
+                                <label for="auth_code" style="line-height: 27px;">
+                                    Authorization code:
+                                </label>
+                                <input type="text" name="auth_code" id="auth_code" placeholder="Authorization code" style="width:331px;">
+                                <br/>
+                                <button id="exchangeCode" class="op-button op-button-submit disabled" style="margin-top: 10px; margin-left: 116px; padding-left: 18px; padding-right: 18px; display:inline-block;">Exchange authorization code for tokens</button>
+                                <div>
+                                    <label for="refresh_token" style="line-height: 47px;">
+                                        Refresh token:
+                                    </label>
+                                    <input type="text" name="refresh_token" id="refresh_token" style="margin-top: 10px; width: 358px;" placeholder="Refresh token">
+                                </div>
+                            </div>
+                            <div style="margin-bottom: 10px">
+                                <label for="access_token_field" style="line-height: 27px; ">Access token:</label>
+                                <input type="text" name="access_token_field" id="access_token_field" style="margin: 0px 10px 0px 0px; width: 220px;" placeholder="Access token"><button id="refreshAccessToken" class="op-button disabled" style="display:inline-block;">Refresh access token</button>
+                                <input type="hidden" id="expires_in"><input type="hidden" id="access_token_issue_date"><input type="hidden" id="for_access_token">
+                            </div>
+                            <div id="autorefreshTokenContainer" style="margin-bottom: 10px">
+                                <input type="checkbox" id="autoRefreshToken" name="autoRefreshToken" style="margin-right:5px;"><span id="autoRefreshTokenLabel" style="cursor:pointer;">Auto-refresh the token before it expires.</span>
+                            </div>
+                            <p id="accessTokenCountDown" class="hidden">
+                                The access token will expire in <span id="countDownValue" style="color:#DD4B39; font-weight: bold;"></span>
+                                seconds.
+                            </p>
+                            <p id="accessTokenExpired" class="hidden">
+                                The access token <span style="color:#DD4B39; font-weight: bold;">has expired</span>.
+                            </p>
+                            <p id="refreshTokenExplanations" class="explanation note" style="margin-top: 0; margin-bottom: 0; border-top-width: 1px;">Note: The OAuth Playground will automatically revoke refresh tokens after 24h. You can avoid this by specifying your own application OAuth credentials using the Configuration panel.</p>
+                        </div>
+                        <!--end inner-->
+                    </div>
+                    <!--end zippycontent -->
+                </div>
+                <!--end zippy -->
+                <div class="op-zippy">
+                    <h3 id="step3"><span class="op-disclosureindicator"></span><span id="step3TitlePrefix">Step 3</span><span is="step3Title" style="color:#777; margin-left: 10px;">Configure request to API</span></h3>
+                    <div class="op-zippycontent" style="height: 0px; overflow-y: visible; overflow-x: visible;">
+                        <div class="inner">
+                            <p class="explanation"><b>Construct your HTTP request</b> by specifying the URI, HTTP Method, headers, content type and request body.<br />Then <b>click the "Send the request" button</b> to initiate the HTTP Request.</p>
+                            <div style="margin-top: 10px;">
+                                <label for="http_method" style="line-height: 27px; ">
+                                    HTTP Method:
+                                </label>
+                                <span id="http_method" class="op-button op-menubutton op-select" style="display:inline-block; *display: inline; width:70px;">
+                                    <span class="label">GET</span>
+                                    <span class="op-disclosureindicator"></span>
+                                    <ul class="op-menulist">
+                                        <li class="op-menulistitem selected">
+                                            GET
+                                        </li>
+                                        <li class="op-menulistitem">
+                                            POST
+                                        </li>
+                                        <li class="op-menulistitem">
+                                            PUT
+                                        </li>
+                                        <li class="op-menulistitem">
+                                            DELETE
+                                        </li>
+                                        <li class="op-menulistitem">
+                                            PATCH
+                                        </li>
+                                    </ul>
+                                </span>
+                                <div class="op-combobutton" style="display:inline-block; *display: inline;">
+                                    <a class="addHeadersButton op-button left" style="margin: 0 0 0 13px; display:inline-block;">Add headers</a><a class="addHeadersButton op-button small right" style="min-width:12px; width:auto; padding:0 4px; display:inline-block;">0</a>
+                                </div><div style="display:inline-block; *display: inline; position:relative;">
+                                    <div id="addHeadersBubble" class="op-bubble hidden" style="min-width:350px;display:table;position: absolute; left: 8px;top: -120px;">
+                                        <span class="pointer left" style="top:92px;"></span>
+                                        <h3>Headers</h3>
+                                        <p style="margin:10px 0;">
+                                            Add a headers:
+                                        </p>
+                                        <div style="width: 313px;">
+                                            <input type="text" class="mini" name="newHeaderName" id="newHeaderName" style="width: 120px;" placeholder="Header name">
+                                            <input type="text" class="mini" name="newHeaderValue" id="newHeaderValue" style="width: 120px; margin-left: 5px;" placeholder="Header value">
+                                            <button id="addHeaderButton" class="op-button mini disabled" style="margin-left: 5px; display:inline-block;">Add</button>
+                                        </div>
+                                        <table id="headerList" class="associativeArray">
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        Header name
+                                                    </th>
+                                                    <th>
+                                                        Header value
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                            </tbody>
+                                        </table>
+                         
